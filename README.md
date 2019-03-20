@@ -19,3 +19,5 @@ SECOND PART
 
 
 ##COPYRIGHT NOTICEEEE
+
+fork repo ands issue pull request
