@@ -20,4 +20,7 @@ SECOND PART
 
 ##COPYRIGHT NOTICEEEE
 
+All rights reserved
+
+
 fork repo ands issue pull request
